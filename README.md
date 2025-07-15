@@ -46,7 +46,7 @@ I'm passionate about creating clean, maintainable code and constantly learning n
 
 | Project         | Description                                            | Demo |
 |----------------|--------------------------------------------------------|------|
-| 💼 **Portfolio**    | Personal website built with React & Tailwind CSS       | [Live Demo](https://aziz-portfolio.vercel.app) |
+| 💼 **Portfolio**    | Personal website built with React & Tailwind CSS       | [Live Demo](https://profile-aldhubri.netlify.app/) |
 | 🧾 **HR System**    | HR app with employee/task management using Laravel/React | [Live Demo](https://hr-front-end2-gilt.vercel.app/) |
 | 📊 **Task Manager** | Task system with subtasks, attachments, and comments | Coming Soon |
 
