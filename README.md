@@ -5,16 +5,12 @@
 
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
 ---
-<p> 
-   <h3>  👋 <strong>Welcome to my GitHub profile!</strong></h3>
-  &nbsp;&nbsp;
-  <h3>
-     <a href="https://github.com/azizaldhubri">
-       <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-            20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  👋 <strong>Welcome to my GitHub profile!</strong>
+      <a href="https://github.com/azizaldhubri">
+       <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      </a>
      
-  </h3>
-</p>
+ 
  
 
 I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**, and **Material UI**.  
