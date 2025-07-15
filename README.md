@@ -1,4 +1,7 @@
 <h1 align="center">👨‍💻 Hi, I’m Aziz Aldubri – Frontend Developer</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi,I’m Aziz_Aldubri_Frontend_Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen" alt="Open to Frontend Developer roles" />
