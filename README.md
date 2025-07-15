@@ -13,10 +13,19 @@
     <img src="https://img.shields.io/badge/PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"/>
   </a>
 </p>
-
-
-
-
+<table  >
+  <tr>
+    <td align="center" valign="middle">
+      👋 <strong>Welcome to my GitHub profile!</strong>
+    </td>
+    <td>&nbsp;&nbsp;</td>
+    <td align="center" valign="middle">
+       <a href="https://profile-aldhubri.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**, and **Material UI**.  
 I also have solid experience in backend development with **Laravel** and **MySQL**, allowing me to build full-stack applications when needed.
