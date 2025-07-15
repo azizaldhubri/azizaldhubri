@@ -18,7 +18,7 @@
     <td align="center" valign="middle">
       👋 <strong>Welcome to my GitHub profile!</strong>
     </td>
-    <td>&nbsp;&nbsp;</td>
+    <td>  <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
     <td align="center" valign="middle">
        <a href="https://profile-aldhubri.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
