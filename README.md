@@ -1,2 +1,2 @@
 ## 🌐 My GitHub Pages Portfolio
-🔗 [View My Custom Page](http://azizaldhubri.github.io/azizaldhubri/)
+🔗 [View My Custom Page](https://profile-aldhubri.netlify.app/)
