@@ -10,7 +10,7 @@
   👋 <strong>Welcome to my GitHub profile!</strong>
   &nbsp;&nbsp;
   <a href="https://github.com/azizaldhubri" target="_blank">
-    <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"/>
   </a>
 </p>
 
