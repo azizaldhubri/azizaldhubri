@@ -6,12 +6,12 @@
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
 
 ---
-<p align="center">
+<h3>
 👋 Welcome to my GitHub profile!  
    <a href="https://profile-aldhubri.netlify.app/" target="_blank">
   <img  src="https://img.shields.io/badge/click_to_go_to_Profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="200"           alt="Open to go to Profile" />
    </a>  
-</p>
+</h3>
  
 
 I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**, and **Material UI**.  
