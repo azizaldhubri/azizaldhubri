@@ -6,7 +6,7 @@
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
  
 --- 
-  <table border="0" cellspacing="0" cellpadding="0" >
+  <table border=0>
   <tr border="0" cellspacing="0" cellpadding="0">
     <td align="center" valign="middle">
       👋 <strong>Welcome to my GitHub profile!</strong>
