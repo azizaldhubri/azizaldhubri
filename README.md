@@ -2,21 +2,16 @@
    <a href="#" target="_blank">
        <img  src="https://img.shields.io/badge/👨‍💻_Hi,_I’m Aziz_Aldubri_Frontend_Developer-00758F?style=for-the-badge&logoColor=61DAFB" width="900" alt="Open to go to Profile" />   
 </h1>
-<h1 align="center">
-   <a href="https://profile-aldhubri.netlify.app/" target="_blank">
-  <img  src="https://img.shields.io/badge/click_to_go_to_Profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="300" alt="Open to go to Profile" />
-   </a>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen" alt="Open to Frontend Developer roles" />
-</p>
 
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
 
 ---
 
-### 👋 Welcome to my GitHub profile!
+### 👋 Welcome to my GitHub profile!<h1 align="center">
+   <a href="https://profile-aldhubri.netlify.app/" target="_blank">
+  <img  src="https://img.shields.io/badge/click_to_go_to_Profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="200" alt="Open to go to Profile" />
+   </a>
+</h1>
 
 I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**, and **Material UI**.  
 I also have solid experience in backend development with **Laravel** and **MySQL**, allowing me to build full-stack applications when needed.
