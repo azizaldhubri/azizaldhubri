@@ -6,7 +6,7 @@
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
  
 --- 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+ <table align="center">
   <tr>
     <td align="center" valign="middle">
       👋 <strong>Welcome to my GitHub profile!</strong>
@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
 
 I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**, and **Material UI**.  
