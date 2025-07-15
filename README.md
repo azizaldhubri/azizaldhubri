@@ -7,10 +7,10 @@
 
 ---
 <p align="center">
-  👋 Welcome to my GitHub profile!
-  <br/>
+  👋 <strong>Welcome to my GitHub profile!</strong>
+  &nbsp;&nbsp;
   <a href="https://github.com/azizaldhubri">
-    <img src="https://img.shields.io/badge/Click_to_go_to_profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </p>
  
