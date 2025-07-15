@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**, and **Bootstrap**and **JavaScript**and **Material UI**.  
+I'm a frontend developer with strong skills in building modern, responsive, and user-first interfaces using **React.js**, **Tailwind CSS**,  **Bootstrap**  , **JavaScript**  and **Material UI**.  
 I also have solid experience in backend development with **Laravel** and **MySQL**, allowing me to build full-stack applications when needed.
 
 I'm passionate about creating clean, maintainable code and constantly learning new technologies to improve performance and UX.
