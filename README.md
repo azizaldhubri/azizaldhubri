@@ -13,7 +13,7 @@
       👋 <strong>Welcome to my GitHub profile!</strong>
     </td>
     <td>  <a href="#" target="_blank">
-       <img src="https://img.shields.io/badge/?style=for-the-badge&logo=react&logoColor=61DAFB" />
+       <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </a>
     </td>
     <td align="center" valign="middle">
