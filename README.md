@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen" alt="Open to Frontend Developer roles" />
 </p>
 
-<p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Laravel</p>
+<p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
 
 ---
 
@@ -47,7 +47,7 @@ I'm passionate about creating clean, maintainable code and constantly learning n
 
 ### 📫 Contact Me
 
-- 📧 Email: azizaldubri@example.com
+- 📧 Email: azizaldubri@gmail.com
 - 🌐 Portfolio: [aziz-portfolio.vercel.app](https://aziz-portfolio.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/azizaldubri](https://linkedin.com)
 
