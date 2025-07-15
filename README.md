@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Aziz 👋</h1>
+<div>
+  
+
+<h1 color="red" background="`black" align="center">Hi, I'm Aziz Aldubri -Frontend Developer 👋</h1>
 <p align="center">
 Frontend Developer | React.js | Tailwind CSS | Bootstrap | JavaScript | Redux | Context | Material-UI | Redux | Laravel
 </p>
@@ -26,3 +29,5 @@ I also have intermediate experience in backend development using Laravel and wor
 | 💼 Portfolio | Personal portfolio built with React & Tailwind CSS | [View Live](https://aziz-portfolio.vercel.app) |
 | 🧾 HR System | HR management system with tasks & employee control | [View Live](https://hr-front-end2-gilt.vercel.app/) |
 | 📊 Task Manager | Task management
+
+</div>
