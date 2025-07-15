@@ -5,7 +5,9 @@
 
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
  
-   ###<p>  👋 <strong>Welcome to my GitHub profile!</strong>
+---   ###
+### 💻 Tech Stackr
+   <p>  👋 <strong>Welcome to my GitHub profile!</strong>
       <a href="https://github.com/azizaldhubri">
        <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      </a>
