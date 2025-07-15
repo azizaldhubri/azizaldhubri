@@ -6,19 +6,16 @@
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
  
 --- 
-<p  ">
-  👋 <strong>Welcome to my GitHub profile!</strong>
-  &nbsp;&nbsp;
-  <a href="https://profile-aldhubri.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"/>
-  </a>
-</p>
+ 
 <table  >
   <tr>
     <td align="center" valign="middle">
       👋 <strong>Welcome to my GitHub profile!</strong>
     </td>
-    <td>  <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    <td>  <a href="#" target="_blank">
+       <img src="https://img.shields.io/badge/?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    </td>
     <td align="center" valign="middle">
        <a href="https://profile-aldhubri.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/CLICK%20TO%20GO%20TO%20PROFILE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
