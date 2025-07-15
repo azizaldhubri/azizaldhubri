@@ -1,7 +1,7 @@
 <div style="border:2px solid #ffae00; padding:10px;">
  
 
-<h1  style=" background:#fef5e6; color:#333;" align="center">Hi, I'm Aziz Aldubri -Frontend Developer 👋</h1>
+<h1 style="color: white; background-color: #007acc; padding: 10px; border-radius: 5px;">Hi, I'm Aziz Aldubri -Frontend Developer 👋</h1>
 <p align="center">
 Frontend Developer | React.js | Tailwind CSS | Bootstrap | JavaScript | Redux | Context | Material-UI | Redux | Laravel
 </p>
