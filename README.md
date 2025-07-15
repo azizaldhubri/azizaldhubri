@@ -6,13 +6,11 @@
 <p align="center">🚀 3+ years of frontend development | React.js | Tailwind | Bootstrap | Material UI | Redux | Context | JavaScript | Laravel</p>
 
 ---
-<p>
-👋 Welcome to my GitHub profile!<h1 align="center">
+<p align="center">
+👋 Welcome to my GitHub profile!  
    <a href="https://profile-aldhubri.netlify.app/" target="_blank">
-  <img  src="https://img.shields.io/badge/click_to_go_to_Profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="200" alt="Open to go to Profile" />
-   </a>
-</h1>
-   
+  <img  src="https://img.shields.io/badge/click_to_go_to_Profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="200"           alt="Open to go to Profile" />
+   </a>  
 </p>
  
 
