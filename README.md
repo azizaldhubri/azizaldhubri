@@ -1,4 +1,7 @@
-<h1 align="center">👨‍💻 Hi, I’m Aziz Aldubri – Frontend Developer</h1>
+<h1 align="center">
+   <a href="#" target="_blank">
+       <img  src="https://img.shields.io/badge/👨‍💻_Hi,_I’m Aziz_Aldubri_Frontend_Developer-20232A?style=for-the-badge&logoColor=61DAFB" width="900" alt="Open to go to Profile" />   
+</h1>
 <h1 align="center">
    <a href="https://profile-aldhubri.netlify.app/" target="_blank">
   <img  src="https://img.shields.io/badge/click_to_go_to_Profile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="300" alt="Open to go to Profile" />
